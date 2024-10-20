@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812778843065",
+    "project_id": "hackathonone-486cd",
+    "storage_bucket": "hackathonone-486cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812778843065:android:b7ae3a4fd298fec289e468",
+        "android_client_info": {
+          "package_name": "com.example.foodiegala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuoZJ8sBnF5E4HulXpDKbcjtcLMntzc0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
